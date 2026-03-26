@@ -96,14 +96,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://172.31.42.154:9980/mithuntechnologies/repository/canarabank-snapshot/</url>
+	      <name>icic-Release Nexus Repository</name>
+	      <url>http://18.175.163.63:8081/repository/icic-Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.42.154:9980/mithuntechnologies/repository/canarabank-release/</url>
+	      <name>icic-Snapshot Nexus Repository</name>
+	      <url>http://18.175.163.63:8081/repository/icic-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
